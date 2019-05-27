@@ -1,0 +1,49 @@
+2019-05-27 22:42:45,381 - [common functions - 21 - open_browser()] - INFO - Found the browser.
+2019-05-27 22:42:56,757 - [common functions - 37 - go_to_url()] - INFO - Webpage has been opened
+2019-05-27 22:42:58,763 - [page validation - 9 - validate_login_page()] - INFO - Log in page validation is successful
+2019-05-27 22:42:58,870 - [login page - 42 - click_signup()] - INFO - Sign up button is clicked
+2019-05-27 22:43:00,879 - [page validation - 29 - validate_signup_page()] - INFO - Sign up page validation is successful
+2019-05-27 22:43:01,008 - [Sign up page - 13 - set_name()] - INFO - User's name is set
+2019-05-27 22:43:01,122 - [Sign up page - 19 - set_email()] - INFO - User's email is set
+2019-05-27 22:43:01,234 - [Sign up page - 25 - set_password()] - INFO - User's password is set
+2019-05-27 22:43:01,347 - [Sign up page - 31 - set_confirm_password()] - INFO - User's confirm password is set
+2019-05-27 22:43:01,502 - [common functions - 101 - drop_down()] - INFO - Drop down is selected
+2019-05-27 22:43:01,503 - [Sign up page - 37 - set_usertype()] - INFO - User type is set
+2019-05-27 22:43:02,820 - [Sign up page - 44 - click_signup()] - INFO - Sign up button is clicked
+2019-05-27 22:43:04,825 - [page validation - 37 - validate_new_signedup_homepage()] - INFO - New Sign up home page validation is successful
+2019-05-27 22:43:07,775 - [page validation - 149 - validate_logout()] - INFO - Log out page validation is successful
+2019-05-27 22:43:16,744 - [common functions - 21 - open_browser()] - INFO - Found the browser.
+2019-05-27 22:43:26,628 - [common functions - 37 - go_to_url()] - INFO - Webpage has been opened
+2019-05-27 22:43:28,634 - [page validation - 9 - validate_login_page()] - INFO - Log in page validation is successful
+2019-05-27 22:43:28,780 - [login page - 13 - set_username()] - INFO - User name is set
+2019-05-27 22:43:28,891 - [login page - 19 - set_password()] - INFO - Password is set
+2019-05-27 22:43:30,185 - [login page - 34 - click_login()] - INFO - Login button is clicked
+2019-05-27 22:43:32,191 - [page validation - 19 - validate_home_page()] - INFO - Home page validation is successful
+2019-05-27 22:43:32,191 - [user activity - 64 - navigate_editprofile()] - INFO - Going to edit profile
+2019-05-27 22:43:32,324 - [user activity - 67 - navigate_editprofile()] - INFO - Edit profile button is clicked
+2019-05-27 22:43:34,349 - [page validation - 45 - validate_edit_profile()] - INFO - Edit profile page validation is successful
+2019-05-27 22:43:36,447 - [common functions - 139 - accept_alert()] - INFO - Are you sure?
+2019-05-27 22:43:36,450 - [common functions - 141 - accept_alert()] - INFO - Alert is accepted
+2019-05-27 22:43:36,451 - [Edit Profile page - 42 - cancel_account()] - INFO - User account has been cancelled
+2019-05-27 22:43:38,458 - [page validation - 61 - validate_cancelaccount()] - INFO - Cancel account validation is successful
+2019-05-27 22:43:47,351 - [common functions - 21 - open_browser()] - INFO - Found the browser.
+2019-05-27 22:43:57,572 - [common functions - 37 - go_to_url()] - INFO - Webpage has been opened
+2019-05-27 22:43:59,580 - [page validation - 9 - validate_login_page()] - INFO - Log in page validation is successful
+2019-05-27 22:43:59,766 - [login page - 13 - set_username()] - INFO - User name is set
+2019-05-27 22:43:59,882 - [login page - 19 - set_password()] - INFO - Password is set
+2019-05-27 22:44:01,305 - [login page - 34 - click_login()] - INFO - Login button is clicked
+2019-05-27 22:44:03,318 - [page validation - 19 - validate_home_page()] - INFO - Home page validation is successful
+2019-05-27 22:44:03,429 - [Owner home page - 13 - click_new_project()] - INFO - New project button is clicked
+2019-05-27 22:44:08,436 - [page validation - 69 - validate_new_project()] - INFO - New project page validation is successful
+2019-05-27 22:44:08,507 - [create project page - 13 - set_longitude()] - INFO - Longitude is set
+2019-05-27 22:44:08,588 - [create project page - 19 - set_latitude()] - INFO - latitude is set
+2019-05-27 22:44:08,673 - [create project page - 25 - set_min_budget()] - INFO - minimum budget is set
+2019-05-27 22:44:08,758 - [create project page - 31 - set_max_budget()] - INFO - maximum budget is set
+2019-05-27 22:44:08,843 - [common functions - 113 - checkbox_select()] - INFO - Checkbox is selected
+2019-05-27 22:44:08,844 - [create project page - 37 - select_design_service()] - INFO - design service is checked
+2019-05-27 22:44:08,923 - [common functions - 113 - checkbox_select()] - INFO - Checkbox is selected
+2019-05-27 22:44:08,923 - [create project page - 43 - select_build_service()] - INFO - build service is checked
+2019-05-27 22:44:09,632 - [create project page - 49 - click_submit()] - INFO - Created Project is submitted
+2019-05-27 22:44:09,632 - [user activity - 92 - create_project()] - INFO - New project is created
+2019-05-27 22:44:11,644 - [page validation - 77 - validate_created_project()] - INFO - Created project page validation is successful
+2019-05-27 22:44:14,567 - [page validation - 149 - validate_logout()] - INFO - Log out page validation is successful

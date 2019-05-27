@@ -1,0 +1,16 @@
+2019-05-27 22:13:03,800 - [common functions - 21 - open_browser()] - INFO - Found the browser.
+2019-05-27 22:13:13,842 - [common functions - 37 - go_to_url()] - INFO - Webpage has been opened
+2019-05-27 22:13:15,852 - [page validation - 9 - validate_login_page()] - INFO - Log in page validation is successful
+2019-05-27 22:13:15,944 - [common functions - 113 - checkbox_select()] - INFO - Checkbox is selected
+2019-05-27 22:13:15,944 - [login page - 26 - check_remember_me()] - INFO - remember me is set
+2019-05-27 22:13:18,039 - [login page - 42 - click_signup()] - INFO - Sign up button is clicked
+2019-05-27 22:13:20,051 - [page validation - 29 - validate_signup_page()] - INFO - Sign up page validation is successful
+2019-05-27 22:13:20,164 - [Sign up page - 13 - set_name()] - INFO - User's name is set
+2019-05-27 22:13:20,267 - [Sign up page - 19 - set_email()] - INFO - User's email is set
+2019-05-27 22:13:20,354 - [Sign up page - 25 - set_password()] - INFO - User's password is set
+2019-05-27 22:13:20,427 - [Sign up page - 31 - set_confirm_password()] - INFO - User's confirm password is set
+2019-05-27 22:13:20,555 - [common functions - 101 - drop_down()] - INFO - Drop down is selected
+2019-05-27 22:13:20,555 - [Sign up page - 37 - set_usertype()] - INFO - User type is set
+2019-05-27 22:13:21,730 - [Sign up page - 44 - click_signup()] - INFO - Sign up button is clicked
+2019-05-27 22:13:23,735 - [page validation - 37 - validate_new_signedup_homepage()] - INFO - New Sign up home page validation is successful
+2019-05-27 22:13:26,581 - [page validation - 149 - validate_logout()] - INFO - Log out page validation is successful
