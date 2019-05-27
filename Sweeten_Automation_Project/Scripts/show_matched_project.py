@@ -1,9 +1,10 @@
 '''
 Test steps
 1. Open Browser
-2. Click on Sign up
-3. Fill all the fields
-4. Sign up
+2. Login
+3. Click on edit for a contractor to see the matched project
+4. Accept or reject the project
+5. Log out
 '''
 import Scripts.feature_config as fc
 import common_functions as cf

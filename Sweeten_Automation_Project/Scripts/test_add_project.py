@@ -1,9 +1,12 @@
 '''
 Test steps
 1. Open Browser
-2. Click on Sign up
-3. Fill all the fields
-4. Sign up
+2. Log in
+3. Click on add project
+4. Fill the details
+5. Submit
+6. Check the new project is created
+7. log out
 '''
 import Scripts.feature_config as fc
 import common_functions as cf

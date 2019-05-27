@@ -1,9 +1,11 @@
 '''
 Test steps
 1. Open Browser
-2. Click on Sign up
-3. Fill all the fields
-4. Sign up
+2. Login
+3. Click on edit for a created contractor
+4. Edit the details with updated value
+5. Validate edited contractor
+6. log out
 '''
 import Scripts.feature_config as fc
 import common_functions as cf

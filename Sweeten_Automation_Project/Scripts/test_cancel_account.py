@@ -1,9 +1,10 @@
 '''
 Test steps
 1. Open Browser
-2. Click on Sign up
-3. Fill all the fields
-4. Sign up
+2. Login
+3. Navigate to Edit profile
+4. Click on Cancel my account
+5. Verify account cancellation
 '''
 import Scripts.feature_config as fc
 import common_functions as cf
