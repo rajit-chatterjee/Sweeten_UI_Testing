@@ -1,3 +1,6 @@
+'''
+This page contains all the user activity
+'''
 import Pages.login_page as lp
 import Pages.signup_page as sp
 import Pages.editprofile_page as ep

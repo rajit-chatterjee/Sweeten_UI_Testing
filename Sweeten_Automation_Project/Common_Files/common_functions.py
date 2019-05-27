@@ -1,5 +1,5 @@
 '''
-This file contains the common functions that should be used to run any automation script on Callhub website.
+This file contains the common functions that should be used to run any automation script on Sweeten website.
 New generic functions should be added here for future use
 '''
 from selenium import webdriver
