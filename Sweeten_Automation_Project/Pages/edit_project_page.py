@@ -1,3 +1,6 @@
+'''
+Functionalities of Edit Project Page
+'''
 import logger_file as logger
 import common_functions as cf
 import Pages.Locators as locator

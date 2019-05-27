@@ -1,3 +1,6 @@
+'''
+Web page elements are listed in this file
+'''
 #Login page object
 login_email_id="user_email"
 login_password_id="user_password"

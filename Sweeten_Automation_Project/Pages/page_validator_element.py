@@ -1,3 +1,6 @@
+'''
+All the page validators are listed here
+'''
 login_page="Welcome, Please Sign in.."
 signup_page="Welcome, Please Sign up.."
 home_page="Signed in successfully."

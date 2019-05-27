@@ -1,3 +1,7 @@
+'''
+Functionalities of Contractor Home Page
+'''
+
 import logger_file as logger
 import common_functions as cf
 import Pages.Locators as locator

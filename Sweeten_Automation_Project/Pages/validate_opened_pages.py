@@ -1,3 +1,6 @@
+'''
+Page validation
+'''
 import Pages.page_validator_element as pe
 import logger_file as logger
 
